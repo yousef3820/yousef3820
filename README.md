@@ -63,4 +63,6 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yousef3820&show_icons=true&locale=en" alt="yousef3820" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yousef3820&show_icons=true&locale=en&count_private=true&cache_seconds=1800&hide_border=true&theme=radical" alt="yousef3820" />
+</p>
